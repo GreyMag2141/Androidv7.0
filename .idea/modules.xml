@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\Study\Android\Android-master\Android.iml" filepath="D:\Study\Android\Android-master\Android.iml" />
+      <module fileurl="file://C:\Android\New\new\Android-master-master1\Android-master-master\Android-master.iml" filepath="C:\Android\New\new\Android-master-master1\Android-master-master\Android-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-master-master.iml" filepath="$PROJECT_DIR$/Android-master-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Android\New\new\Android-master-master1\Android-master-master\app\app.iml" filepath="C:\Android\New\new\Android-master-master1\Android-master-master\app\app.iml" />
+    </modules>
+  </component>
+</project>

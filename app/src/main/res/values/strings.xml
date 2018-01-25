@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DriverNoteGamma</string>
+    <string name="select_date">Выберите дату</string>
+    <string name="km">км</string>
+
+
+    <string name="oil_prompt">Выберите тип масла</string>
+
+    <string-array name="oil_type">
+        <item>Минеральное</item>
+        <item>Синтетическое</item>
+        <item>Полусинтетическое</item>
+
+    </string-array>
+
+</resources>
